@@ -27,11 +27,11 @@ To use this library in your Android project, follow these steps:
 
     ```gradle
     dependencies {
-        implementation 'com.github.YOUR_GITHUB_USERNAME:android-toast-library:1.0.0'
+        implementation 'com.github.NexusTeamOfficial:android-toast-library:1.0.0'
     }
     ```
 
-    **Important**: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username and `1.0.0` with the desired version tag.
+    **Important**: Ensure you use the correct version tag (e.g., `1.0.0`) when implementing.
 
 ## Usage
 
@@ -93,4 +93,4 @@ android-toast-library/
                             └── SimpleToast.java
 ```
 
-**Note**: Remember to replace `YOUR_GITHUB_USERNAME` in `toastlibrary/build.gradle` and in the `implementation` line of your app's `build.gradle` with your actual GitHub username before publishing.
+**Note**: The project is configured for the `NexusTeamOfficial` GitHub account.
